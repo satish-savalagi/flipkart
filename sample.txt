@@ -1,1 +1,1 @@
-this is django class 1
+this is django class 1 hello good morning
